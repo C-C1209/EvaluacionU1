@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">EvaluaciónU1</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtCorreo">Correo</string>
+    <string name="txtContra">Contraseña</string>
+    <string name="txtbtnEntrar">Entrar</string>
+
+    //Activity Vuelo,Tren,Camion
+    <string name="txtVuelo">Vuelo</string>
+    <string name="txtTren">Tren</string>
+    <string name="txtCamion">Camión</string>
+
+    //Activity Vuelo
+    <string name="txtNumVuelo">Vuelo #425</string>
+    <string name="txtNumBoleto">Boleto #23456</string>
+    <string name="txtNombreComprador">Cristian Meza Ibarra</string>
+
+    <string name="txtbusca">Busca tu vuelo!!!</string>
+
+    <string name="txtchih">Chihuahua, México</string>
+    <string name="txtTiempo">Tiempo: 2 Horas 18 Min +</string>
+
+    <string name="txtdf">D.F, México</string>
+    <string name="txtdfTiempo">Tiempo: 13 Horas 27 Min +</string>
+
+    //Activity Tren
+    <string name="txtNumTren">Tren #12</string>
+    <string name="txtNumBoletoTren">Boleto #23412</string>
+    <string name="txtNombreCompradorTren">Cristian Meza Ibarra</string>
+
+    <string name="txtbuscaTren">Busca tu tren!!!</string>
+
+    <string name="txtchihTren">Chihuahua, México</string>
+    <string name="txtTiempoTren">Tiempo: 5 Horas 18 Min +</string>
+
+    <string name="txtdfTren">D.F, México</string>
+    <string name="txtdfTiempoTren">Tiempo: 20 Horas 27 Min +</string>
+
+    //Activity Camion
+    <string name="txtNumCamion">Camión #6</string>
+    <string name="txtNumBoletoCamion">Boleto #11111</string>
+    <string name="txtNombreCompradorCamion">Cristian Meza Ibarra</string>
+
+    <string name="txtbuscaCamion">Busca tu camión!!!</string>
+
+    <string name="txtchihCamion">Chihuahua, México</string>
+    <string name="txtTiempoCamion">Tiempo: 8 Horas 30 Min +</string>
+
+    <string name="txtdfCamion">D.F, México</string>
+    <string name="txtdfTiempoCamion">Tiempo: 30 Horas 10 Min +</string>
+
+</resources>

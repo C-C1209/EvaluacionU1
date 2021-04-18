@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtLogin">45sp</dimen>
+
+
+    <dimen name="txtbotones">20sp</dimen>
+
+    <dimen name="txtViaje">30sp</dimen>
+    <dimen name="txtboleto">25sp</dimen>
+    <dimen name="txtnombre">20sp</dimen>
+
+    <dimen name="txtChih">20sp</dimen>
+    <dimen name="txtChihTiempo">15sp</dimen>
+</resources>

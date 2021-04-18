@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="azulboton">#050CE1</color>
+    <color name="blancotrans">#B2FFFFFF</color>
+    <color name="gris">#707070</color>
+    <color name="trans">#00FFFFFF</color>
+
+    //vuelos
+    <color name="fondoinicioVuelos">#363CDE</color>
+    <color name="fondofinalVuelos">#11145E</color>
+    <color name="separacion">#A6707070</color>
+
+    //trenes
+    <color name="fondoinicioTrenes">#7F36DE</color>
+    <color name="fondofinalTrenes">#11145E</color>
+
+    //
+    <color name="fondoinicioCamiones">#DE36DE</color>
+    <color name="fondofinalCamiones">#11145E</color>
+
+</resources>
